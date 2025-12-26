@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Saluton Cxio! 
+
+😄 Mi estas Aksiomo. La programisto kaj Esperantisto el Ĉinio.
+
+🌱 Mi lernas Rust kaj JavaScript kurente. 
 
 <!--
 **aksiomo/aksiomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
