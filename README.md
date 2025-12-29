@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/OS-OpenSUSE-informational?style=flat&logo=opensuse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 
-😄 Mi estas Aksiomo. La programisto kaj Esperantisto el Ĉinio.
+😄 Mi estas Aksiomo. Mi estas programisto kaj Esperantisto el Ĉinio.
 
 🌱 Mi lernas Rust kaj JavaScript kurente. 
 
