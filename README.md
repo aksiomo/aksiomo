@@ -7,6 +7,7 @@
 
 🌱 Mi lernas Rust kaj JavaScript kurente. 
 
+📫 Vi volas demandi mi pri Koto de JavaScript kaj Rust.
 <!--
 **aksiomo/aksiomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
