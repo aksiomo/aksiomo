@@ -8,6 +8,8 @@
 🌱 Mi lernas Rust kaj JavaScript kurente. 
 
 📫 Vi volas demandi mi pri Koto de JavaScript kaj Rust.
+
+Mia public [notebook/journal/daily](https://trusted-sodalite-1f5.notion.site/2de753bd4bd580c8acaff6fa1010de19?v=2de753bd4bd580ac8593000cc5fca27c)
 <!--
 **aksiomo/aksiomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
